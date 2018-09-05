@@ -21,13 +21,23 @@ We have exams and things that come, it happens. Just be sure to email me at arsh
 
 ### General Lecture Plan  
 Week 1: Syllabus and Git/Bash
+
 Week 2: Intro to HTML/CSS
+
 Week 3: Intro to Javascript and Node
+
 Week 4: React Part 1
+
 Week 5: React Part 2
+
 Week 6: Express, routes, requests
+
 Week 7: Databases
+
 Week 8: Redux
+
 Week 9: GraphQL Part 1
+
 Week 10: GraphQL Part 2
+
 Week 11: Special Topics
