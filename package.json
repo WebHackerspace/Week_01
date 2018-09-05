@@ -1,0 +1,23 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "Intro to the course, git, and bash",
+  "main": "index.js",
+  "dependencies": {
+    "mdx-deck": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHackerspace/Week1.git"
+  },
+  "author": "Aria <arshiam2828@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WebHackerspace/Week1/issues"
+  },
+  "homepage": "https://github.com/WebHackerspace/Week1#readme"
+}

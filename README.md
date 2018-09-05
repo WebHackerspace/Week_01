@@ -16,6 +16,7 @@ You are given full credit as long as you **attempt** the assignment and make a p
 
 There may be occasions where there isn't an assignment and we pass around an attendance sheet, so please come to class.
 
+<<<<<<< Updated upstream
 ### Missing a Lecture
 We have exams and things that come, it happens. Just be sure to email me at arshiam2@illinois.edu or Alpri at aelse2@illinois.edu and do the assignment if there is one.
 
