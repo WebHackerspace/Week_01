@@ -2,7 +2,7 @@
 Intro to the course, git, and bash
 
 
-##Syllabus
+## Syllabus
 
 ## Lecture Format
 30 min lecture
