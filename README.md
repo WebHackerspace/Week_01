@@ -17,7 +17,7 @@ You are given full credit as long as you **attempt** the assignment and make a p
 There may be occasions where there isn't an assignment and we pass around an attendance sheet, so please come to class.
 
 ### Missing a lecture
-We have exams and things that come, it happens. Just be sure to email me at arshiam2@illinois.edu and do the assignemnt if there is one. 
+We have exams and things that come, it happens. Just be sure to email me at arshiam2@illinois.edu or aplri at aelse2@illinois.edu and do the assignemnt if there is one. 
 
 ### General Lecture Plan  
 Week 1: Syllabus and Git/Bash
