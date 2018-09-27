@@ -31,14 +31,14 @@ We have exams and things that come, it happens. Just be sure to email me at arsh
 
 **Week 5:**  React Part 2
 
-**Week 6:**  Express, routes, requests
+**Week 6:**  React Part 3
 
-**Week 7:**  Databases
+**Week 7:**  Express, routes, requests part 1
 
-**Week 8:**  Redux
+**Week 8:**  Express, routes, requests part 2
 
-**Week 9:**  GraphQL Part 1
+**Week 9:**  Databases (Mongodb)
 
-**Week 10:** GraphQL Part 2
+**Week 10:** Deployment
 
 **Week 11:** Special Topics
